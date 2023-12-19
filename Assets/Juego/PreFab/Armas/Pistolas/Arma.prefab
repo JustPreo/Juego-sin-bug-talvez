@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6739559930341930371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1572783773909934, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 7866945982896999795, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 1572783773909934, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_Name
+      value: Arma
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4404346593870928, guid: fffaff91fb71ca244be8517697088c43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114164106778908234, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: Reticle
+      value: 
+      objectReference: {fileID: 2725479609731969507, guid: 27d68db0883be4e4580a23f97505e87d,
+        type: 3}
+    - target: {fileID: 114349044915979940, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: NestUnderThis
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114349044915979940, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: GameObjectToPool
+      value: 
+      objectReference: {fileID: 6000146314543326055, guid: 2be2b6b8fe9187f47a3d16bca6b50c61,
+        type: 3}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: AutoReload
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: WeaponName
+      value: Armita
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: MagazineSize
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: MagazineBased
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: SpawnPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: SpawnPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: TimeBetweenUses
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: InitializeOnStart
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: PreventAllAimWhileInUse
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114552424271636822, guid: fffaff91fb71ca244be8517697088c43,
+        type: 3}
+      propertyPath: ModifyMovementWhileAttacking
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fffaff91fb71ca244be8517697088c43, type: 3}

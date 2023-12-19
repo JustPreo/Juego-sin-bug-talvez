@@ -1,0 +1,4 @@
+repository "Juego sin bug, talvez@impre0hn@cloud"
+  path "/"
+    br "/main"
+    co "/main"
